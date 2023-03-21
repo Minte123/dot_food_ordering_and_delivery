@@ -47,6 +47,8 @@ MySql  is a relational database that stores data in separate tables rather than 
    
    ## Registration
    ![reg](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/Register.jpg)
+   ## Restaurants
+   ![menue](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/Resturant.jpg)
    
    
    
