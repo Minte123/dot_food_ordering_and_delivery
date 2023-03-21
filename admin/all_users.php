@@ -183,7 +183,7 @@ session_start();
                 </div>
              
             </div>
-            <footer class="footer"> © 2022 - Online Food Ordering System</footer>
+            <footer class="footer"> © 2023 - dot Online Food Ordering and delivery System</footer>
            
         </div>
      
