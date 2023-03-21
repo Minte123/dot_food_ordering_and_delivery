@@ -7,6 +7,7 @@ With this system, customers simply access a menu through web orders. This can ei
 
 ## Architecture
 3-tier architecture comprising  the front end, the back end, and a database.
+https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/mvc.jpg
 
 ## Technology
 
