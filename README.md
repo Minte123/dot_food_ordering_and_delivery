@@ -15,12 +15,13 @@ PHP  can actually do anything related to server-side scripting or more popularly
 
 MySql  is a relational database that stores data in separate tables rather than putting all the data in one big storeroom. The database structures are organized into physical files optimized for speed.
 
+![Tech](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/php1.jpg)
 
 ## Project SetUp
 
 👉 Download the zip file
 
-👉 Extract the file and copy **OnlinePizzaDelivery** folder
+👉 Extract the file and copy **dot_food_ordering_and_delivery** folder
 
     Paste inside root directory
         * For xampp xampp/htdocs 
@@ -31,17 +32,17 @@ MySql  is a relational database that stores data in separate tables rather than 
 
 👉 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-    Create a database with name OPD
+    Create a database with name onlinefoodphp
     
-   ![Screenshot (585)](https://user-images.githubusercontent.com/67963288/112973637-33b79a00-916f-11eb-817b-316a6cf3dc0a.png)
+   ![Screenshot (585)](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/create_db.jpg)
     
-    Import opd.sql file(given inside the zip package in SQL file folder)
+    Import onlinefoodphp.sql file(given inside the zip package in SQL file folder)
    
-   ![Screenshot (584)](https://user-images.githubusercontent.com/67963288/112973764-48942d80-916f-11eb-90bd-b8cc148539aa.png)
+   ![Screenshot (584)](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/f_db.jpg)
 
 👉 Run the script 
 
-    For User Panel: http://localhost/OnlinePizzaDelivery/
+    For User Panel: http://localhost/dot_food_ordering_and_delivery/
     
-    For admin panel: http://localhost/OnlinePizzaDelivery/admin/
+    For admin panel: http://localhost/dot_food_ordering_and_delivery/admin/
     
