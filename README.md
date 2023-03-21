@@ -28,7 +28,6 @@ MySql  is a relational database that stores data in separate tables rather than 
         * For wamp wamp/www
         * For lamp var/www/html
 
-![Screenshot (572)](https://user-images.githubusercontent.com/67963288/114294472-858be880-9abc-11eb-854d-4f571781b2b4.png)
 
 👉 Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -45,4 +44,22 @@ MySql  is a relational database that stores data in separate tables rather than 
     For User Panel: http://localhost/dot_food_ordering_and_delivery/
     
     For admin panel: http://localhost/dot_food_ordering_and_delivery/admin/
+    
+    ## Home Page
+    ![home](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/m1.jpg)
+    ## Login
+    ![log](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/login.jpg)
+    ## Registration
+    ![reg](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/Register.jpg)
+    ## Restaurants
+    ![menue](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/Resturant.jpg)
+    ## Food Ordering
+    ![order](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/order_dish.jpg)
+    ## My Orders
+    ![my](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/my_orders.jpg)
+    ## Admin Dashboard
+    ![admin](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/admi_dshboard.jpg)
+    ## Good to Go
+    ![good](https://github.com/Minte123/dot_food_ordering_and_delivery/blob/master/images/c2c27f166ab95886352146f0878bde9b.gif)
+    
     
